@@ -1,0 +1,5 @@
+text_1 = input('1 - mant kiriting :')
+text_2 = input('2- matn kiriting :')
+text_1 = text_1.lower()
+text_2 = text_2.lower()
+print(text_1 , text_2)
